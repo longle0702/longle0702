@@ -1,17 +1,3 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**<br>
-Developing intelligent systems and data-driven solutions, with a focus on machine learning and applied AI.<br><br>
-
-🤝 **I’m looking to collaborate on:**<br>
-AI, data science, or research-oriented projects involving model optimization, deep learning, or innovative data applications.<br><br>
-
-🙋‍♂️ **I’m looking for help with:**<br>
-Exploring advanced AI architectures and integrating scalable solutions for real-world deployment.<br><br>
-
-🌱 **I’m currently learning:**<br>
-Artificial Intelligence Systems at EPITA (MSc), and strengthening my skills in French and advanced ML frameworks.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/longle.0702) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/longlinhle0702) 
 
