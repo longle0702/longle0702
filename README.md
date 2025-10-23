@@ -1,4 +1,7 @@
 # 💫 About Me:
+👋 **Who am I?**<br>
+I’m Long, an AI student currently studying in France.<br><br>
+
 🔭 **I’m currently working on:**<br>
 Computer Vision and Natural Language Processing — building systems that teach machines to both see and understand.<br><br>
 
