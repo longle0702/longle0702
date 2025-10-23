@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>AI systems that actually think, not just predict — and occasionally fixing my own Python chaos while doing it.<br><br>🤝 I’m looking to collaborate on:<br>Cool data science or AI side projects — anything that mixes creativity and logic (bonus points if it involves generative models or clever automation).<br><br>🙋‍♂️ I’m looking for help with:<br>Balancing school, side projects, and sleep. Also, better French pronunciation — it’s harder than debugging TensorFlow.<br><br>🌱 I’m currently learning:<br>MSc-level AI systems at EPITA, plus improving my French to survive baguette-based small talk.<br><br>💬 Ask me about:<br>AI, deep learning, storytelling, or how to make your portfolio stand out with some flair.<br><br>⚡ Fun fact:<br>I can turn heartbreak into productivity spikes and machine learning models into art.
+🔭 **I’m currently working on:**<br>
+Developing intelligent systems and data-driven solutions, with a focus on machine learning and applied AI.<br><br>
+
+🤝 **I’m looking to collaborate on:**<br>
+AI, data science, or research-oriented projects involving model optimization, deep learning, or innovative data applications.<br><br>
+
+🙋‍♂️ **I’m looking for help with:**<br>
+Exploring advanced AI architectures and integrating scalable solutions for real-world deployment.<br><br>
+
+🌱 **I’m currently learning:**<br>
+Artificial Intelligence Systems at EPITA (MSc), and strengthening my skills in French and advanced ML frameworks.
 
 
 ## 🌐 Socials:
