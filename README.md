@@ -11,7 +11,7 @@ I’m **Long**, an AI student currently studying in **France**.
 ---
 
 ### 🤝 Looking to Collaborate On  
-**AI** and **Data Science** projects across all domains — from cutting-edge **research** to real-world **applications**.
+**AI** and **Data Science** projects across all domains — from **research** to real-world **applications**.
 
 
 
