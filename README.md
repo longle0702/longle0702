@@ -11,7 +11,7 @@ Computer Vision and Natural Language Processing, building systems that teach mac
 ---
 
 ### 🤝 Looking to Collaborate On  
-AI and Data Science projects across all domains, from research to real-world **applications.
+AI and Data Science projects across all domains, from research to real-world applications.
 
 
 
