@@ -8,7 +8,7 @@ I’m Long, an AI student currently studying in France.
 ### 🔭 Currently Working On  
 Computer Vision and Natural Language Processing, building systems that teach machines to both see and understand.  
 
-
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/longle.0702) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/longlinhle0702) 
