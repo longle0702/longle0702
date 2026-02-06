@@ -8,11 +8,6 @@ I’m Long, an AI student currently studying in France.
 ### 🔭 Currently Working On  
 Computer Vision and Natural Language Processing, building systems that teach machines to both see and understand.  
 
----
-
-### 🤝 Looking to Collaborate On  
-AI and Data Science projects across all domains, from research to real-world applications.
-
 
 
 ## 🌐 Socials:
