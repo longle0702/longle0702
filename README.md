@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning projects<br>🌱 I’m currently learning LLMs and production ML<br>
+🎓 My name is Long (Alex) and I’m currently studying a Master’s degree in France<br>🔭 I’m currently working on Deep Learning projects<br>🌱 I’m currently learning LLMs and production ML<br>
 
 
 ## 🌐 Socials:
