@@ -2,7 +2,7 @@
 🎓 My name is Long (Alex) and I’m currently studying a Master’s degree in France<br>🔭 I’m currently working on Deep Learning projects<br>🌱 I’m currently learning LLMs and production ML<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/longle.0702) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/longlinhle0702) 
 
 # 💻 Tech Stack:
