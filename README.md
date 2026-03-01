@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m Long (or Alex, if you can't pronounce my name), currently pursuing my MSc in Artificial Intelligence Systems in France<br>🔭 I’m currently working on Deep Learning projects, with interests spanning computer vision and natural language processing.<br>🌱 I’m currently exploring large language models and production machine learning pipelines.<br>☕ When I’m not tuning hyperparameters, I’m probably thinking about why the model decided a cat is a toaster.
+🎓 I’m Long (or Alex, if you can't pronounce my name), currently pursuing my MSc in Artificial Intelligence Systems in France.<br>🔭 I’m currently working on deep learning projects, with interests spanning computer vision and natural language processing.<br>🌱 I’m currently exploring large language models and production machine learning pipelines.<br>☕ When I’m not tuning hyperparameters, I’m probably thinking about why the model decided a cat is a toaster.
 
 
 # 🌐 Socials:
