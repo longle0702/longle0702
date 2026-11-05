@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Long 👋</h1>
 
----
-
 ## About Me
 
 I'm Long (or Alex, if that's easier to pronounce). I specialize in **computer vision**: object detection, image segmentation and image processing. I also like experimenting with **NLP** and **multimodal** models, such as retrieval-augmented generation (RAG) and medical visual question answering.
