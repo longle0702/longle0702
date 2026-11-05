@@ -1,19 +1,13 @@
 <h1 align="center">Hi, I'm Long 👋</h1>
-<p align="center">
-  <b>MSc student in Artificial Intelligence Systems · Deep Learning · Computer Vision · NLP</b>
-</p>
 
 ---
 
 ## About Me
 
-I'm Long (or Alex, if that's easier to pronounce), an MSc student in **Artificial Intelligence Systems** in France. I build deep learning projects in **computer vision** and **natural language processing**: object detection, medical image segmentation, retrieval-augmented generation (RAG), and text classification and summarization.
+I'm Long (or Alex, if that's easier to pronounce). I specialize in **computer vision**: object detection, image segmentation and image processing. I also like experimenting with **NLP** and **multimodal** models, such as retrieval-augmented generation (RAG) and medical visual question answering.
 
 When I'm not tuning hyperparameters, I'm probably trying to work out why the model decided a cat is a toaster.
 
-## Education
-
-- **MSc in Artificial Intelligence Systems** · EPITA, France
 <!-- Add experience here, e.g.:
 ## Experience
 - **Role** · Company (MM/YYYY – MM/YYYY): one line on what you did and the impact
