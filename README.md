@@ -4,8 +4,6 @@
 
 I'm Long (or Alex, if that's easier to pronounce). I specialize in **computer vision**: object detection, image segmentation and image processing. I also like experimenting with **NLP** and **multimodal** models, such as retrieval-augmented generation (RAG) and medical visual question answering.
 
-When I'm not tuning hyperparameters, I'm probably trying to work out why the model decided a cat is a toaster.
-
 <!-- Add experience here, e.g.:
 ## Experience
 - **Role** · Company (MM/YYYY – MM/YYYY): one line on what you did and the impact
